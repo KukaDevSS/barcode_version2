@@ -23,7 +23,7 @@
           displayValue: true,
           fontSize: 25,
           lineColor: "#000000",
-          width: 2,
+          width: 2.1,
           height: 100,
         },
         showAlert: false,
